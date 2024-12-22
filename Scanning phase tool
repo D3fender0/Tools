@@ -1,0 +1,23 @@
+
+ Network scanning Tool
+ Nmap - port and service scanner
+ masscan - fast port scanner
+ zmap - internet-wide scans, data collection, and research projects
+
+Port scanning Tools
+ Amap - Amap is a tool for automating the process of identifying
+ Unicornscan - A flexible and efficient port scanner
+
+Service and banner Grabbing Tool
+  Nikto - a Web server scanner 
+  Whatweb - Web  scanner that can identify technologies used on website
+  
+Vulnerability Scanners
+ OpenVAS -  Vulnerability scanning Tool
+ Nessus - vulnerability scanner that can identify vulnerability in network
+
+
+Specialized Scanning Tools
+ Hping3 -  command-line oriented TCP/IP packet assembler
+Angry ip scanner - a fast friendly network scanning tool
+ 

@@ -1,0 +1,32 @@
+Information gathering Tool
+ Whois -Used to gather domain registration information
+ Dns Recon (dnsenum,dnsrecon)-Used to gather to DNS information
+ Nslookup - to obtain the ip address other DNS record
+ Dig - investigating the DNS name servers
+ 
+Network Scanning Tool
+ Nmap -it used to discover the hosts and service 
+ zenmap -it gui for nmap
+ Masscan - a fast port scanning used for large network
+ 
+Web application recon tool
+  wappalyzer - a browser extension that uncover technology used in website
+  builtwith - it is search engine that helps identify the technology used in website
+  waybackmachine - allow you to see pas version of website
+  TheHarvester - gathering Emails ,subdomain , ip and name from different social media
+  Recon-ng - web reconnaissance framework
+ 
+OSINT
+ Maltego - extracting information from any type of data source and then sorting it out to           find how it's linked to other data 
+
+ Sherlock - to find username across social media
+ 
+ SpiderFoot  - OSINT automation tool
+
+passive recon tool
+ shodan- search engine for internt conneted device
+ censys - search engine that allow you to serach for specific host and software
+ 
+
+
+  

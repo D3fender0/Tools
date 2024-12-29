@@ -6,3 +6,4 @@
 ```
 whois [domain-name or IP-address]
 ```
+[ViewDNS.info](https://viewdns.info/whois/?domain): Offers WHOIS along with other DNS and IP-related lookups.

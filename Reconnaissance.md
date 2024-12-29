@@ -5,5 +5,4 @@
 * It retrieves details such as the domain's registration, expiration date, registrar, and contact information.
 ```
 whois [domain-name or IP-address]
-
 ```

@@ -20,3 +20,23 @@ dig [@server] name [type] [options]
 * options: (Optional) Additional flags to customize the query.
 
 Refer : [Dig Command](https://linux.die.net/man/1/dig)
+
+## Finding a Subdomain
+* Subdomain finding is an essential task in cybersecurity, especially during reconnaissance and vulnerability assessment. It involves identifying subdomains associated with a target domain to gain a broader attack surface for analysis. Here are some key techniques and tools used for subdomain enumeration:
+## Sublist3r
+* Sublist3r is a Python-based tool used to enumerate subdomains of a target domain. It gathers subdomains using search engines and APIs, such as Google, Bing, Baidu, Yahoo, and VirusTotal.
+**Installation**
+  1. Clone the Repository:
+     ```
+     git clone https://github.com/aboul3la/Sublist3r.git
+     cd Sublist3r
+     ```
+  2. Install Requirements:
+     ```
+     pip install -r requirements.txt
+     ```
+  3. Run the Tool: Ensure Python is installed, preferably Python 2.7 or 3.x.
+**Example**
+```
+python sublist3r.py -d example.com
+```
